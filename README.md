@@ -1,1 +1,1 @@
-# Poker
+In this repository I am building a singe user poker game with multiple AI Players. I am building an intelligent poker AI to perform the best possible move at every hand and use Monte Carlo Simulation and other intelligent methods to dynamically determine the odds of winning each round with the given hand
